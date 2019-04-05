@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="blob" type="PLAIN_TEXT" />
       <mapping pattern="ENV" type="PLAIN_TEXT" />
       <mapping pattern="quiries" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
